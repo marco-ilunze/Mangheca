@@ -1,0 +1,29 @@
+.btn-red {
+  background-color: #AA331B;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color:rgba(240, 240, 240, 0.8);
+  font-weight: bold;
+  font-family: 'Castoro', serif;
+  text-decoration: none;
+  margin-right: 190px;
+}
+
+.btn-red:hover{
+  background-color:#d33c37;
+}
+
+.btn-instagram{
+  background-color: #AA331B;
+  border-radius: 4px;
+  color:rgba(240, 240, 240, 0.8);
+  font-weight: bold;
+  font-family: 'Castoro', serif;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 20px 80px;
+}
+
+.btn-instagram:hover{
+  background-color:#d33c37;
+}

@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro&family=Lora&display=swap" rel="stylesheet");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: rgba(240, 240, 240, 0.8);
+}
+
+h1{
+  font-family: 'Castoro', serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2, h3{
+  font-family: 'Castoro', serif;
+  font-size: 18px;
+  font-weight: bold;
+
